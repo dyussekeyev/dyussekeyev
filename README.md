@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyussekeyev&label=Profile%20views&color=0e75b6&style=flat" alt="dyussekeyev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyussekeyev" alt="dyussekeyev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/askardyuss" target="blank"><img src="https://img.shields.io/twitter/follow/askardyuss?logo=twitter&style=for-the-badge" alt="askardyuss" /></a> </p>
 
 - 🔭 I’m currently working on [THAMARA](https://github.com/dyussekeyev/thamara)
